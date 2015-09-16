@@ -1,0 +1,67 @@
+---
+layout: post
+title: FLISoL 2010
+date: 2010-04-18 16:10:51.000000000 -03:00
+categories:
+- blog
+tags:
+- argentina
+- flisol
+- linux
+- software libre
+status: publish
+type: post
+published: true
+meta:
+  display: Imported from santiagorojo.com.ar
+  dsq_thread_id: '536575278'
+author:
+  display_name: tiagox
+  email: sr@santiagorojo.com.ar
+  first_name: Santiago
+  last_name: Rojo
+  login: admin
+---
+![FLISoL 2010](/assets/flisol-logo.jpg "FLISoL 2010"){: .centered}
+
+El día sábado 24 de Abril, se llevará a cabo en toda Latinoamérica el FLISoL
+2010 (acrónimo de Festival Latinoamericano de Instalación de Software Libre). En
+casi todo los países del continente se estarán reuniendo personas para este
+encuentro en el cual, además de instalación de Software Libre, también habrá
+charlas de información y difusión.
+
+Para participar no hace falta tener ningún tipo de conocimiento de nada, solo
+ganas de aprender. Habrá mucha gente con ganas de ayudar y enseñarte como
+instalar Software Libre en tus equipos. Es una buena oportunidad para dar ese
+primer paso para liberarte y usar programas y sistemas operativos totalmente
+gratis y libres.
+
+> Es importante resaltar que podés llevar tu PC para instalar software libre,
+> durante el evento y con la supervisación y capacitación de muchos expertos. No
+> es necesario que lleves monitor, ni teclado ni mouse, solamente tu equipo, y
+> preferentemente contar con una unidad de CD/DVD.
+
+Si sos un usuario avanzado poder participar, justamente, yendo a dar una mano a
+los nuevos curiosos.
+
+Aquí en Argentina, se realizarán reuniones en alrededor de 33 lugares, a lo
+largo y ancho de todo el país. El punto de encuentro central será en la sede
+Medrano de la FRBA de la UTN ([Medrano 951, Ciudad de Buenos
+Aires](http://maps.google.com.ar/maps?f=q&so
+urce=s_q&hl=en&geocode=&q=951+Medrano,+Ciudad+de+Buenos+Aires,+Argen tina+(UTN-
+FRBA+Sede+Medrano)&sll=-34.598584,-58.420248&sspn=0.011322,0.0
+22552&g=951+Medrano,+Ciudad+de+Buenos+Aires,+Argentina&ie=UTF8&hq=&a
+mp;hnear=Av+Medrano+951,+Almagro,+Buenos+Aires&ll=-34.598649,-58.420068&
+spn=0.005661,0.011276&z=17)), entre las 10 y las 18 hs.
+
+Por mi parte, esta es la primera vez que voy a participar de un FLISoL. Estoy
+muy ansioso y animado por poder pasar una jornada de aprendizaje y de compartir
+conocimiento.
+
+Para terminar les dejo unos links importantes donde encontrarán toda la
+información útil del festival:
+
+* Página oficial del FLISoL - [http://www.installfest.net/FLISOL2010](http://www.installfest.net/FLISOL2010)
+* Pagina de CaFeLuG con la información de la reunión en CABA - [http://wiki.cafelug.org.ar/index.php/Flisol/2010](http://wiki.cafelug.org.ar/index.php/Flisol/2010)
+
+¿Quién se prende?
