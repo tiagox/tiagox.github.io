@@ -3,22 +3,22 @@ layout: post
 title: Instalación simple de LAMP en GNU/Linux Ubuntu
 date: 2012-02-29 18:52:01.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- apache
-- instalar
-- lamp
-- linux
-- mysql
-- php
-- tasksel
-- ubuntu
+  - apache
+  - instalar
+  - lamp
+  - linux
+  - mysql
+  - php
+  - tasksel
+  - ubuntu
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '594065754'
+  dsq_thread_id: "594065754"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -26,6 +26,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 La manera mas sencilla de montar un servidor LAMP (Linux, Apache, MySQL y PHP)
 en Ubuntu que encontré, es la de utilizar una pequeña aplicación, por linea de
 comandos, que simplifica enormemente la tarea de instalación y configuración de

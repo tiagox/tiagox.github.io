@@ -3,15 +3,15 @@ layout: post
 title: Gente sorda
 date: 2010-04-18 15:58:32.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- reflexiones
+  - reflexiones
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536961148'
+  dsq_thread_id: "536961148"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar

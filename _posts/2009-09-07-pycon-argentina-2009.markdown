@@ -3,14 +3,14 @@ layout: post
 title: PyCon Argentina 2009
 date: 2009-09-07 10:18:10.000000000 -03:00
 categories:
-- blog
+  - blog
 tags: []
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536678565'
+  dsq_thread_id: "536678565"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -18,6 +18,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 ![PyCon Argentina 2009](/assets/PyConAR-2009-banner-chico.png){: .centered}
 
 Los días 4 y 5 de septiembre se celebro en los auditorios de la Universidad de
@@ -37,7 +38,7 @@ El sitio oficial del evento [PyCon](http://ar.pycon.org/2009/about/), contiene
 todo el cronograma de las charlas, los horarios y personas que pasaron por la
 conferencia, así que no voy a duplicar aquí el contenido de las mismas, pero si
 comentar acerca de las charlas en las que yo pude participar. Para empezar, el
-sábado a la mañana llegue,  me registre y allí recibí una interesante (y de muy
+sábado a la mañana llegue, me registre y allí recibí una interesante (y de muy
 buena calidad) cantidad de folletos, una identificación personal, y demás
 "regalitos", puede parecer una estupidez que comente eso, pero en realidad lo
 que quiero destacar de la conferencia, es que fue completamente gratuita, y el
@@ -117,7 +118,7 @@ una implementación de Python que sea mucho mas rápida que la actual, ya que co
 el lo dijo "... para Google cada milisegundo cuenta ..."; y que además "... por
 cada milisegundo que Google ahorra, evita que el mundo tal cual lo conocemos
 colapse...". Collin dio una charla muy entretenida y reveladora de lo que es
-Python tras bambalinas. Gracias a dios, a pesar, de  que él hablara en ingles y
+Python tras bambalinas. Gracias a dios, a pesar, de que él hablara en ingles y
 de mi poco nivel en ese idioma, se le entendió perfecto.
 
 Finalmente, luego de una jornada impecable, en cuanto a organización y
@@ -129,7 +130,7 @@ segundo premio entregado tuve la gran suerte de adquirir un ejemplar de
 O'Reilly. Un libro enorme con todo para la programación de Python, así que eso
 fue la mejor frutilla que este postre podía tener.
 
-![&quot;Programming Python&quot;, Mark Lutz](/assets/pycon_premio.jpg "&quot;Programming Python&quot;, Mark Lutz"){: .centered}
+!["Programming Python", Mark Lutz](/assets/pycon_premio.jpg '"Programming Python", Mark Lutz'){: .centered}
 
 Y ahora si Facundo Batista, dijo unas palabras finales, hizo los agradecimientos
 correspondientes y todo el staff del evento se despidió, anunciando el próximo

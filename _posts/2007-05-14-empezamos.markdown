@@ -3,7 +3,7 @@ layout: post
 title: "¿Empezamos?"
 date: 2007-05-14 13:42:00.000000000 -03:00
 categories:
-- blogger imported
+  - blogger imported
 tags: []
 status: publish
 type: post
@@ -13,7 +13,7 @@ meta:
   blogger_blog: technofilico.blogspot.com
   blogger_permalink: "/2007/05/empezamos.html"
   display: Imported from technofilico.blogspot.com
-  dsq_thread_id: '536678130'
+  dsq_thread_id: "536678130"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -21,7 +21,8 @@ author:
   last_name: Rojo
   login: admin
 ---
-![](/assets/horizonte.jpg)
+
+![](/assets/horizonte.jpg){: .centered}
 
 Pensando en el comienzo de un nuevo espacio donde guardar un poco de historia,
 saberes, comentarios, intereses... quien sabe para quien.

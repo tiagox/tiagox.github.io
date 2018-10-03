@@ -3,18 +3,18 @@ layout: post
 title: Reflexión sobre el Programa Conectar Igualdad.com.ar
 date: 2010-04-15 15:38:46.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- conectar igualdad
-- exomate
-- linux
-- windows
+  - conectar igualdad
+  - exomate
+  - linux
+  - windows
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536961008'
+  dsq_thread_id: "536961008"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -22,6 +22,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 Pensando un poco sobre el programa "[Conectar
 Igualdad.com.ar](http://www.conectarigualdad.com.ar/)" que lanzo el gobierno
 hace unos días. Me gustaría que la gente empiece a tomar conciencia de que las

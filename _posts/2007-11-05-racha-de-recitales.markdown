@@ -3,8 +3,8 @@ layout: post
 title: Racha de recitales
 date: 2007-11-05 21:54:00.000000000 -03:00
 categories:
-- blogger imported
-- recitales
+  - blogger imported
+  - recitales
 tags: []
 status: publish
 type: post
@@ -14,7 +14,7 @@ meta:
   blogger_blog: technofilico.blogspot.com
   blogger_permalink: "/2007/11/racha-de-recitales.html"
   display: Imported from technofilico.blogspot.com
-  dsq_thread_id: '536678295'
+  dsq_thread_id: "536678295"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -39,9 +39,7 @@ artistas para los cuales ya tengo las respectivas entradas. No nos olvidemos del
 gordito Malmsteen, que aunque no voy a verlo no es una mala salida a escuchar un
 poco de buena música.
 
-![!](http://bp2.blogger.com/__IQ9TsCtP_U/Ry_Gob-wTgI/AAAAAAAAAAw/MpypqYOSGSk/s1600-h/entradas.bmp)
-
-![!](/assets/entradas.bmp)
+![](/assets/entradas.bmp){: .centered}
 
 Steve Vai se presenta en el teatro Gran Rex los días 12 y 13 de noviembre, junto
 a su banda, para tocar temas de su ultimo disco plagado de clásicos. Y Raphsody

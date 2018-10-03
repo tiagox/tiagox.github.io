@@ -3,17 +3,17 @@ layout: post
 title: Primeras charlas Grupo PHP Argentina
 date: 2010-02-26 09:40:11.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- argentina
-- charlas
-- php
+  - argentina
+  - charlas
+  - php
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536961121'
+  dsq_thread_id: "536961121"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -21,6 +21,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 [![Primeras Charlas del Grupo PHP](/assets/grupophp-primeras_charlas-600x74.png){: .centered}](http://grupophp.com.ar)
 
 El día Sábado 6 de Marzo se realizara en el **Hotel Las Naciones** (Corrientes

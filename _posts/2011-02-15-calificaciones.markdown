@@ -3,16 +3,16 @@ layout: post
 title: Calificaciones
 date: 2011-02-15 23:36:51.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- educación
-- humor
+  - educación
+  - humor
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536961003'
+  dsq_thread_id: "536961003"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -20,6 +20,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 Evidentemente, ni es algo que solo a mi me preocupa, ni mucho menos es algo que
 pasa solo en nuestro país
 

@@ -3,18 +3,18 @@ layout: post
 title: Implementación de Búsqueda Binaria en PHP
 date: 2010-01-18 16:43:26.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- binary search
-- búsqueda binaria
-- php
-- recursividad
+  - binary search
+  - búsqueda binaria
+  - php
+  - recursividad
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536961092'
+  dsq_thread_id: "536961092"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -22,6 +22,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 La Búsqueda Binaria se utiliza para saber si un elemento se encuentra en una
 colección de datos, como podría ser un array, un vector o cualquier estructura
 de datos similar. Este algoritmo se basa en la premisa de que nuestra colección
@@ -47,6 +48,7 @@ recursividad puede ser un tanto engañosa y colgar todo si no esta bien definida
 su condición de corte.
 
 {% highlight php linenos%}
+
 <?php
 function binarySearch($key, $collection, $start, $end){
     // Selección de la posición del elemento central.

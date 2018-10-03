@@ -3,18 +3,18 @@ layout: post
 title: FLISoL 2010
 date: 2010-04-18 16:10:51.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- argentina
-- flisol
-- linux
-- software libre
+  - argentina
+  - flisol
+  - linux
+  - software libre
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536575278'
+  dsq_thread_id: "536575278"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -22,6 +22,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 ![FLISoL 2010](/assets/flisol-logo.jpg "FLISoL 2010"){: .centered}
 
 El día sábado 24 de Abril, se llevará a cabo en toda Latinoamérica el FLISoL
@@ -61,7 +62,7 @@ conocimiento.
 Para terminar les dejo unos links importantes donde encontrarán toda la
 información útil del festival:
 
-* Página oficial del FLISoL - [http://www.installfest.net/FLISOL2010](http://www.installfest.net/FLISOL2010)
-* Pagina de CaFeLuG con la información de la reunión en CABA - [http://wiki.cafelug.org.ar/index.php/Flisol/2010](http://wiki.cafelug.org.ar/index.php/Flisol/2010)
+- Página oficial del FLISoL - [http://www.installfest.net/FLISOL2010](http://www.installfest.net/FLISOL2010)
+- Pagina de CaFeLuG con la información de la reunión en CABA - [http://wiki.cafelug.org.ar/index.php/Flisol/2010](http://wiki.cafelug.org.ar/index.php/Flisol/2010)
 
 ¿Quién se prende?

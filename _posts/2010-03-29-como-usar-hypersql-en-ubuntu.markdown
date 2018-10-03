@@ -3,23 +3,23 @@ layout: post
 title: Como usar HyperSQL en Ubuntu
 date: 2010-03-29 23:15:30.000000000 -03:00
 categories:
-- blog
+  - blog
 tags:
-- bases de datos
-- databases
-- hibernate
-- hsql
-- hsqldb
-- hypersql
-- java
-- linux
-- ubuntu
+  - bases de datos
+  - databases
+  - hibernate
+  - hsql
+  - hsqldb
+  - hypersql
+  - java
+  - linux
+  - ubuntu
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '539763348'
+  dsq_thread_id: "539763348"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -27,6 +27,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 HyperSQL es un motor de base de datos liviano que tiene la posibilidad de
 funcionar en memoria. En los casos en los que necesitamos una forma rápida y
 sencilla de probar algún proyecto, es bueno tener a mano una herramienta que no
@@ -57,11 +58,14 @@ ubicación de los archivos de la base. Con lo que el archivo resultante quedará
 de la siguiente forma.
 
 {% highlight sh %}
+
 # HSQLDB server configuration file
+
 # See the Advanced Topics chapter of the Hsqldb User Guide.
+
 # See also the file /etc/hsqldb/sqltool.rc.
 
-server.database.0       file:///var/lib/hsqldb/db0/db0
+server.database.0 file:///var/lib/hsqldb/db0/db0
 {% endhighlight %}{: .noscroll}
 
 Y lo mismo con.
@@ -74,13 +78,16 @@ Hay que descomentar la ultima linea que indica la ubicación de los archivos del
 servidor.
 
 {% highlight sh %}
+
 # HSQLDB server configuration file
+
 # See the Advanced Topics chapter of the Hsqldb User Guide.
+
 # See also the file /etc/hsqldb/sqltool.rc.
 
 server.port 8080
 
-server.database.0       file:///var/lib/hsqldb/db0/db0
+server.database.0 file:///var/lib/hsqldb/db0/db0
 {% endhighlight %}{: .noscroll}
 
 De esta forma ya esta configurado correctamente y ahora solo queda iniciar el
@@ -95,11 +102,11 @@ Solo debemos tener en cuenta que para trabajar con esta los datos de
 configuración son:
 
 {% highlight text %}
-url      : jdbc:hsqldb:db0://localhost
-driver   : org.hsqldb.jdbcDriver
-login    : sa
+url : jdbc:hsqldb:db0://localhost
+driver : org.hsqldb.jdbcDriver
+login : sa
 password :
-libsql   : hsqldb.jar
+libsql : hsqldb.jar
 {% endhighlight %}{: .noscroll}
 
 Simplemente con eso ya tenemos listo nuestro pequeño entorno de pruebas de bases

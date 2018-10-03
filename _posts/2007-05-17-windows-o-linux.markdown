@@ -3,7 +3,7 @@ layout: post
 title: "¿Windows o Linux?"
 date: 2007-05-17 20:21:00.000000000 -03:00
 categories:
-- blogger imported
+  - blogger imported
 tags: []
 status: publish
 type: post
@@ -13,7 +13,7 @@ meta:
   blogger_blog: technofilico.blogspot.com
   blogger_permalink: "/2007/05/windows-o-linux.html"
   display: Imported from technofilico.blogspot.com
-  dsq_thread_id: '536678264'
+  dsq_thread_id: "536678264"
 author:
   login: admin
   email: sr@santiagorojo.com.ar
@@ -21,9 +21,6 @@ author:
   first_name: Santiago
   last_name: Rojo
 ---
-![!](http://bp2.blogger.com/__IQ9TsCtP_U/Rk0ILuHZftI/AAAAAAAAAAo/V3_ToGkDYkg/s1600-h/win.vs.linux.th.png)
-
-![!](assets/win.vs.linux.th.png)
 
 Cuando hablamos de Windows o Linux, hablamos sobre el sistema operativo que hace
 que nuestra PC tenga funcionalidad. El sistema operativo es el encargado de
@@ -44,13 +41,13 @@ La principal diferencia es que Linux, es software libre con lo cual cumple con
 las reglas del soft libre. De modo más preciso, se refiere a cuatro libertades
 de los usuarios del software:
 
-* **Libertad 0**: La libertad de usar el programa, con cualquier propósito.
-* **Libertad 1**: La libertad de estudiar cómo funciona el programa, y adaptarlo
+- **Libertad 0**: La libertad de usar el programa, con cualquier propósito.
+- **Libertad 1**: La libertad de estudiar cómo funciona el programa, y adaptarlo
   a tus necesidades. El acceso al código fuente es una condición previa para
   esto.
-* **Libertad 2**: La libertad de distribuir copias, con lo que puedes ayudar a
+- **Libertad 2**: La libertad de distribuir copias, con lo que puedes ayudar a
   tu vecino.
-* **Libertad 3**: La libertad de mejorar el programa y hacer públicas las
+- **Libertad 3**: La libertad de mejorar el programa y hacer públicas las
   mejoras a los demás, de modo que toda la comunidad se beneficie. El acceso al
   código fuente es un requisito previo para esto.
 

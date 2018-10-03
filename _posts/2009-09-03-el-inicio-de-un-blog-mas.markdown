@@ -3,14 +3,14 @@ layout: post
 title: El inicio de un blog más...
 date: 2009-09-03 22:41:12.000000000 -03:00
 categories:
-- blog
+  - blog
 tags: []
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536678364'
+  dsq_thread_id: "536678364"
 author:
   login: admin
   email: sr@santiagorojo.com.ar
@@ -18,6 +18,7 @@ author:
   first_name: Santiago
   last_name: Rojo
 ---
+
 ![http://www.santiagorojo.com.ar](/assets/banner_inicio.jpg){: .centered}
 
 Bueno, como todos ustedes saben día a día surgen más y más blogs, y este no es

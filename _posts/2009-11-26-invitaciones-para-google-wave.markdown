@@ -3,14 +3,14 @@ layout: post
 title: Invitaciones para Google Wave
 date: 2009-11-26 13:06:00.000000000 -03:00
 categories:
-- blog
+  - blog
 tags: []
 status: publish
 type: post
 published: true
 meta:
   display: Imported from santiagorojo.com.ar
-  dsq_thread_id: '536678615'
+  dsq_thread_id: "536678615"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -18,6 +18,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 Hola, tengo al menos 10 invitaciones para el beta privado de [Google
 Wave](http://wave.google.com/), los que sepan lo que es y no tengan una cuenta
 posiblemente quieran una y los que no saben lo que es, dudo mucho que les

@@ -3,9 +3,9 @@ layout: post
 title: Steve Vai en Argentina @ Gran Rex 12 y 13 de Noviembre
 date: 2007-11-19 20:59:00.000000000 -03:00
 categories:
-- blogger imported
-- recitales
-- reviews
+  - blogger imported
+  - recitales
+  - reviews
 tags: []
 status: publish
 type: post
@@ -15,7 +15,7 @@ meta:
   blogger_blog: technofilico.blogspot.com
   blogger_permalink: "/2007/11/steve-vai-en-argentina-gran-rex-12-y-13.html"
   display: Imported from technofilico.blogspot.com
-  dsq_thread_id: '536678326'
+  dsq_thread_id: "536678326"
 author:
   display_name: tiagox
   email: sr@santiagorojo.com.ar
@@ -23,6 +23,7 @@ author:
   last_name: Rojo
   login: admin
 ---
+
 [Review]
 
 Hola gente, es un poco tarde para hacer el review del recital del 13 de
@@ -42,9 +43,7 @@ cualquier asiento. Pero bueno, lejos y todo estaba es la 2° fila del Súper-
 pullman, al lado del pasillo, justo al frente del escenario un cachito para el
 costado.
 
-![!](http://bp2.blogger.com/__IQ9TsCtP_U/R0JEeamhMkI/AAAAAAAAABw/HDUAtk5ovQ0/s1600-h/entrada.vai.jpg)
-
-![!](/assets/entrada.vai.jpg)
+![](/assets/entrada.vai.jpg){: .centered}
 
 Llegue al teatro a las 20:30 hs, casi en punto. Hora en la que subió al
 escenario [Carina Alfie](http://www.alfiecarina.com.ar/), una guitarrista
@@ -63,9 +62,7 @@ para hacernos dar cuentas de que solo estaban probando sonido, la verdad que eso
 me pareció de muy buen gusto. Mas que nada por que cuando empezaron a tocar
 pensé que eran otra banda soporte.
 
-![!](http://bp1.blogger.com/__IQ9TsCtP_U/R0JFPKmhMlI/AAAAAAAAAB4/wEonGZn7y4g/s1600-h/folleto.vai.jpg)
-
-![!](/assets/folleto.vai.jpg)
+![](/assets/folleto.vai.jpg){: .centered}
 
 La preparación genero un poco de ansiedad pero a las 21:47 hs, si mal no
 recuerdo, subió al escenario Steve Vai, acompañado de sus músicos, con una
