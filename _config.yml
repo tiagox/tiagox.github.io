@@ -26,7 +26,8 @@ github_username: tiagox
 
 # Build settings
 markdown: kramdown
-theme: tiagox.github.io-theme
+# theme: tiagox.github.io-theme
+remote_theme: tiagox/tiagox.github.io-theme
 plugins:
   - jekyll-feed
 
