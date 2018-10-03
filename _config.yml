@@ -26,11 +26,12 @@ github_username: tiagox
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: tiagox.github.io-theme
 plugins:
   - jekyll-feed
 
 permalink: /:year/:month/:title
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

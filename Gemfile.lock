@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/tiagox/tiagox.github.io-theme
+  revision: 71cbb66c9b818038e639a36859a11f975e36d04b
+  specs:
+    tiagox.github.io-theme (0.1.0)
+      jekyll (~> 3.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -31,8 +38,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.5.0)
-      jekyll (~> 3.3)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -42,10 +47,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    minima (2.5.0)
-      jekyll (~> 3.5)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
@@ -60,8 +61,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    the-plain (3.1.0)
-      jekyll (~> 3.5)
 
 PLATFORMS
   ruby
@@ -69,8 +68,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.4)
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-  the-plain
+  tiagox.github.io-theme!
   tzinfo-data
 
 BUNDLED WITH
