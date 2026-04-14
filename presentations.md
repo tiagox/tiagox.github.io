@@ -42,9 +42,9 @@ Pude colaborar con la confección, contenido y revisión de las diapositivas par
 
 ... Git just want to have fun and you should too
 
-<iframe src="https://tiagox.com/talks/git4graioners/git4graioners.html" class="slides"></iframe>
+<iframe src="https://tiagox.github.io/talks/git4graioners/git4graioners.html" class="slides"></iframe>
 
-[Slides](https://tiagox.com/talks/git4graioners/git4graioners.html)
+[Slides](https://tiagox.github.io/talks/git4graioners/git4graioners.html)
 
 ## Unit test recommendations
 
@@ -56,6 +56,6 @@ Pude colaborar con la confección, contenido y revisión de las diapositivas par
 
 ... journey through space-time
 
-<iframe src="https://tiagox.com/talks/keepgitsimple/keepgitsimple.html" class="slides"></iframe>
+<iframe src="https://tiagox.github.io/talks/keepgitsimple/keepgitsimple.html" class="slides"></iframe>
 
-[Slides](https://tiagox.com/talks/keepgitsimple/keepgitsimple.html)
+[Slides](https://tiagox.github.io/talks/keepgitsimple/keepgitsimple.html)
