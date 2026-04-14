@@ -18,9 +18,9 @@ En esta página encontrarán distintas presentaciones que tuve la posibilidad de
 
 ## Introducción a la Programación Reactiva
 
-<iframe src="https://tiagox.com/intro-programacion-reactiva/" class="slides"></iframe>
+<iframe src="https://tiagox.github.io/intro-programacion-reactiva/" class="slides"></iframe>
 
-[Slides](https://tiagox.com/intro-programacion-reactiva/)
+[Slides](https://tiagox.github.io/intro-programacion-reactiva/)
 
 ## Versionado de código
 
@@ -48,9 +48,9 @@ Pude colaborar con la confección, contenido y revisión de las diapositivas par
 
 ## Unit test recommendations
 
-<iframe src="https://tiagox.com/unit-test-recommendations/" class="slides"></iframe>
+<iframe src="https://tiagox.github.io/unit-test-recommendations/" class="slides"></iframe>
 
-[Slides](https://tiagox.com/unit-test-recommendations/)
+[Slides](https://tiagox.github.io/unit-test-recommendations/)
 
 ## Keep GIT Simple
 
